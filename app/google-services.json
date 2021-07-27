@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357646711460",
+    "project_id": "lccnotify-beea3",
+    "storage_bucket": "lccnotify-beea3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357646711460:android:f0d9fe2e50d5e0c9450431",
+        "android_client_info": {
+          "package_name": "com.tw.ch.lcc.hankchan.messagedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357646711460-ov329oml5thfs98u40vavvvv7qolhrv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz8qhXRxtKczIv-s0yfDxRkueNv3wkSuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357646711460-ov329oml5thfs98u40vavvvv7qolhrv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
